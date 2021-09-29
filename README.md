@@ -10,6 +10,10 @@
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações
 
+## Executar o projeto
+No path `\web-crawler` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
+>python nomedoarquivo.py
+
 ## Bibliotecas
 - [BeautifulSoup](https://www.ti-enxame.com/pt/python-3.x/como-instalar-o-beautifulsoup-em-python3-quando-dir-padrao-e-python2.7/822820620/) - é uma biblioteca de extração de dados de arquivos HTML e XML
 - [requests](https://docs.python-requests.org/pt_BR/latest/user/install.html)

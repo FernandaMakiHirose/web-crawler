@@ -14,4 +14,4 @@
 - collections - nos ajuda a preencher e manipular eficientemente as estruturas de dados como tuplas, dicionários e listas
 
 ## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações
